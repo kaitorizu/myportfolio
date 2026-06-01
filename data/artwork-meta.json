@@ -158,25 +158,43 @@
     "year": "2024",
     "medium": "Digital"
   },
-  "artwork/graphic-design/3_nasa.jpg": {
+  "artwork/graphic-design/3_bakery.jpg": {
+    "title": "Bakery Advertisement",
+    "description": "A graphic design project for a bakery advertisment flyer.",
+    "year": "2023",
+    "medium": "Digital"
+  },
+  "artwork/graphic-design/4_nasa.jpg": {
     "title": "Want to Become an Astronaut?",
     "description": "A graphic design project for a NASA recruitment poster.",
     "year": "2024",
     "medium": "Digital"
   },
-  "artwork/graphic-design/4_rhino.jpg": {
+  "artwork/graphic-design/5_rhino.jpg": {
     "title": "Rhinoceros Play Poster",
     "description": "A graphic design project for a theatrical play advertisment poster.",
     "year": "2023",
     "medium": "Digital"
   },
-  "artwork/graphic-design/5_uxui.png": {
+  "artwork/graphic-design/6_education.png": {
+    "title": "Educational Awarness Poster",
+    "description": "A graphic design project for an awarness poster directed at college-level educators.",
+    "year": "2023",
+    "medium": "Digital"
+  },
+  "artwork/graphic-design/7_uxui.png": {
     "title": "Gamer Center",
     "description": "A user interface/experience design project for a social gaming website. Made on Adobe XD.",
     "year": "2023",
     "medium": "Digital"
   },
-  "artwork/graphic-design/6_news.jpg": {
+  "artwork/graphic-design/8_health.jpg": {
+    "title": "Healthy Food Article",
+    "description": "A graphic design project focused on designing a web article for an online health magazine.",
+    "year": "2023",
+    "medium": "Digital"
+  },
+  "artwork/graphic-design/9_news.jpg": {
     "title": "WBOS Morning Edition",
     "description": "A graphic design project for a morning news program intro screen.",
     "year": "2023",
